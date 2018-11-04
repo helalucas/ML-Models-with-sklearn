@@ -7,12 +7,12 @@ Big thank you to Janavi Ravi for being the best teacher <3
 
 Plan:
 - ~~Categorical data and OHE~~
-- CountVectorizers, ~~TfidfVectorizer~~, HashingVectorizer
-- Extracting Features from Images 
+- ~~CountVectorizers,TfidfVectorizer, HashingVectorizer~~
+- ~~Extracting Features from Images~~
 - Linear Regression Using Estimators
-- Lasso Regression
-- Ridge Regression 
-- Support Vector Regression
+- ~~Lasso Regression~~
+- ~~Ridge Regression~~ 
+- ~~Support Vector Regression~~
 - SVM Text Classification
 - SVM Image Classification
 - Gradient Boosting Regression and Grid Search
